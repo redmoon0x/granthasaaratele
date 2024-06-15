@@ -1,0 +1,7 @@
+python-telegram-bot
+langchain
+google-generativeai
+chromadb
+python-dotenv
+flask
+requests
