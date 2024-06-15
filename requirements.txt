@@ -1,4 +1,6 @@
 python-telegram-bot
+pyTelegramBotAPI
+telebot
 langchain
 google-generativeai
 chromadb
