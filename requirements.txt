@@ -1,11 +1,6 @@
-python-telegram-bot
-pyTelegramBotAPI
-telebot
-langchain
+streamlit
 google-generativeai
-chromadb
-python-dotenv
-flask
-requests
 langchain
 langchain_google_genai
+chromadb
+python-dotenv
